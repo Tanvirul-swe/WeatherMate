@@ -17,13 +17,13 @@ That's a weather update information application.
 - How to use the TextField Widget to take user input.
 
 ## UI Design.
+###### Loading 
+![LocadingScreen](https://user-images.githubusercontent.com/75753499/109457452-16ff4800-7a85-11eb-92ae-f8e6daad7cc3.png)
+
+###### Location 
+![locationScreen](https://user-images.githubusercontent.com/75753499/109457685-88d79180-7a85-11eb-8848-e67f480dbfb2.png)
+
+###### Get Location 
+![getWeather](https://user-images.githubusercontent.com/75753499/109457729-9db42500-7a85-11eb-88e9-249f75281a28.png)
 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
