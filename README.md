@@ -4,8 +4,8 @@ That's a weather update information application.
 
 ## What I learn this project.
 
-1.How to use Dart to perform asynchronous tasks.
-2.Understand async and await.
+1.How to use Dart to perform asynchronous tasks.-
+2.Understand async and await.-
 3.Learn about Futures and how to work with them.
 4.How to network with the Dart http package.
 5.What APIs are and how to use them to get data from the internet.
