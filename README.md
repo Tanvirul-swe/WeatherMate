@@ -1,6 +1,6 @@
-# climathalper
+# WeatherMate
 
-A new Flutter application.
+That's a weather update information application.
 
 ## Getting Started
 
